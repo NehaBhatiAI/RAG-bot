@@ -57,7 +57,12 @@ P4 (RAG-bot)/
 3. Ask your questions in the chatbot section.
 4. The bot retrieves relevant chunks + generates contextual answers.
 
-# 📸 UI Preview
+# 📸 Project UI
+
+Here’s a preview of my application:
+
+![App Screenshot](UI-Screenshot.png)
+
 
 ⚠️ Notes
 
